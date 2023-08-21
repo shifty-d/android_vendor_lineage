@@ -9,7 +9,8 @@ PRODUCT_PACKAGES += \
 # Telephony packages
 PRODUCT_PACKAGES += \
     messaging \
-    Stk
+    Stk \
+    CellBroadcastReceiver
 
 # Default ringtone
 PRODUCT_PRODUCT_PROPERTIES += \
